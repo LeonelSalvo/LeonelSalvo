@@ -22,6 +22,31 @@
 
 ---
 
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88ce02" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
+  <img src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFCC00?style=for-the-badge" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white" alt="thirdweb"/>
+  <img src="https://img.shields.io/badge/wagmi-0A0A0A?style=for-the-badge" alt="wagmi"/>
+  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/>
+  <img src="https://img.shields.io/badge/Froala-2D2E83?style=for-the-badge" alt="Froala"/>
+</p>
+
+---
+
 ### 👋 TL;DR
 
 - I run **Discovery** and **Frontend**. I turn stakeholder pain points into validated prototypes, then ship.
@@ -52,28 +77,33 @@
 
 ---
 
-### 🧰 Tech Stack
+### 📈 Dev Stats (auto-updated)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88ce02" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
-  <img src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFCC00?style=for-the-badge" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white" alt="thirdweb"/>
-  <img src="https://img.shields.io/badge/wagmi-0A0A0A?style=for-the-badge" alt="wagmi"/>
-  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/>
-  <img src="https://img.shields.io/badge/Froala-2D2E83?style=for-the-badge" alt="Froala"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=LeonelSalvo&theme=dark&hide_border=true" alt="GitHub streak"/>
 </p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonelSalvo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Profile Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonelSalvo&area=true&hide_border=true&radius=8&theme=github-compact" alt="Contribution activity graph"/>
+</p>
+
+---
+
+### 🧪 What I’m exploring now
+
+- **RSC** + Next.js App Router, streaming UIs  
+- **Three.js/WebGPU** for product explainers  
+- **AI** assistants embedded in discovery flows  
+- **D3** narrative data viz  
 
 ---
 
@@ -137,36 +167,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Dev Stats (auto-updated)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=LeonelSalvo&theme=dark&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonelSalvo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Profile Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonelSalvo&area=true&hide_border=true&radius=8&theme=github-compact" alt="Contribution activity graph"/>
-</p>
-
----
-
-### 🧪 What I’m exploring now
-
-- **RSC** + Next.js App Router, streaming UIs  
-- **Three.js/WebGPU** for product explainers  
-- **AI** assistants embedded in discovery flows  
-- **D3** narrative data viz  
 
 ---
 
