@@ -1,8 +1,3 @@
-<!--
-  📌 Put this README.md at the root of a repo named exactly like your GitHub username: `LeonelSalvo`.
-  GitHub will use it as your profile README.
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Agustín%20Leonel%20Salvo&fontSize=48&fontAlign=50&fontAlignY=35&desc=Head%20of%20Discovery%20%26%20Frontend%20•%20AI%20×%20Web3%20×%20DX&descAlign=50&descAlignY=62" alt="wavy header"/>
 </p>
@@ -26,8 +21,8 @@
 
 * I run **Discovery** and **Frontend**. I turn stakeholder pain points into validated prototypes, then ship.
 * Frontend specialist with **Next.js App Router**, **React**, **Tailwind**, **shadcn/ui**, **Radix**, **MUI**, **Framer Motion**, **GSAP**, **Three.js**, **D3**, **Froala**.
-* Web3 & full‑stack experience: **Solidity** (smart contracts), **TypeScript/NestJS**, **Hardhat**, **thirdweb**, **wagmi**, **ethers.js**.
-* Love building **interactive, animated, data‑rich** UIs and **AI‑assisted** product flows.
+* Web3 & full-stack experience: **Solidity** (smart contracts), **TypeScript/NestJS**, **Hardhat**, **thirdweb**, **wagmi**, **ethers.js**.
+* Love building **interactive, animated, data-rich** UIs and **AI-assisted** product flows.
 
 ---
 
@@ -36,7 +31,7 @@
 > From 0 → 1 with sharp loops.
 
 1. **Signal Intake** — CEO/COO, investors, clients → align on outcomes & guardrails.
-2. **Rapid Prototyping (AI‑first)** — mock journeys, prompt flows, and UI shells targeting pains/desires.
+2. **Rapid Prototyping (AI-first)** — mock journeys, prompt flows, and UI shells targeting pains/desires.
 3. **Solution Shaping** — **DoD** + **PRD** with risks, scope slices, and metrics.
 4. **Plan & Handoff** — business ↔ dev translation, planning, and delivery roadmap.
 
@@ -78,93 +73,14 @@
 
 ### ✨ Featured Demos
 
-<table>
-  <tr>
-    <!-- Ask Archi -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/ask-archi">
-        <img src="https://labs.archivista.ai/thumbnails/ask-archi.png" alt="Ask Archi thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Ask Archi</b> &nbsp; <a href="https://labs.archivista.ai/ask-archi">↗</a><br/>
-      <sub>Aug 21, 2025 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        Internal prototype exploring the Ask Archi concept towards Archival Intelligence.
-      </p>
-      <code>Internal Idea</code> <code>Discovery</code> <code>Assistant</code>
-    </td>
-
-    <!-- Archivista Labs -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/archivista-labs">
-        <img src="https://labs.archivista.ai/thumbnails/labs-2.png" alt="Archivista Labs thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Archivista Labs</b> &nbsp; <a href="https://labs.archivista.ai/archivista-labs">↗</a><br/>
-      <sub>Aug 14, 2025 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        Strategy & Discovery department: plans strategies and finds business value via prototypes.
-      </p>
-      <code>Internal Idea</code> <code>Discovery</code> <code>Innovation</code> <code>Prototypes</code>
-    </td>
-
-    <!-- Archivista Center -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/archivista-center">
-        <img src="https://labs.archivista.ai/thumbnails/center-2.png" alt="Archivista Center thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Archivista Center</b> &nbsp; <a href="https://labs.archivista.ai/archivista-center">↗</a><br/>
-      <sub>Aug 13, 2025 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        Central entry point to manage and orchestrate all Archivista services.
-      </p>
-      <code>Internal Idea</code> <code>Discovery</code> <code>Centralized</code> <code>Orchestration</code>
-    </td>
-  </tr>
-  <tr>
-    <!-- Eternal Storage -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/eternal-storage">
-        <img src="https://labs.archivista.ai/thumbnails/storage-3.png" alt="Eternal Storage thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Eternal Storage</b> &nbsp; <a href="https://labs.archivista.ai/eternal-storage">↗</a><br/>
-      <sub>Aug 07, 2025 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        Multi-tier backup product for corporate, advisor, and end-users; plug-and-play resilience.
-      </p>
-      <code>Customer Pain Point</code> <code>Discovery</code> <code>Storage</code> <code>Architecture</code>
-    </td>
-
-    <!-- Record Studio Admin -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/record-studio-admin">
-        <img src="https://labs.archivista.ai/thumbnails/records-admin-2.png" alt="Record Studio Admin thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Record Studio Admin</b> &nbsp; <a href="https://labs.archivista.ai/record-studio-admin">↗</a><br/>
-      <sub>Jun 19, 2025 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        Enterprise admin dashboard to manage Record Studio custom apps.
-      </p>
-      <code>Internal Idea</code> <code>Development</code> <code>Branding</code> <code>Custom App</code>
-    </td>
-
-    <!-- Eternal Records -->
-    <td style="width:33%; vertical-align:top; padding:8px;">
-      <a href="https://labs.archivista.ai/eternal-records">
-        <img src="https://labs.archivista.ai/thumbnails/records-3.png" alt="Eternal Records thumbnail" style="width:100%; border-radius:12px; display:block;">
-      </a>
-      <b>Eternal Records</b> &nbsp; <a href="https://labs.archivista.ai/eternal-records">↗</a><br/>
-      <sub>Dec 31, 2023 — Ongoing</sub>
-      <p style="margin:8px 0 6px; color:#555;">
-        dApp for creating, editing, and sharing immutable records on blockchain.
-      </p>
-      <code>Opportunity/Delight</code> <code>Production</code> <code>Records</code> <code>Compliance</code>
-    </td>
-  </tr>
-</table>
-
+|  |  |  |
+|---|---|---|
+| [![Ask Archi](https://labs.archivista.ai/thumbnails/ask-archi.png)](https://labs.archivista.ai/) <br> **Ask Archi** · *Aug 21, 2025–Ongoing* <br> <sub>Internal Idea • Discovery • Assistant</sub> | [![Archivista Labs](https://labs.archivista.ai/thumbnails/labs-2.png)](https://labs.archivista.ai/) <br> **Archivista Labs** · *Aug 14, 2025–Ongoing* <br> <sub>Internal Idea • Discovery • Innovation • Prototypes</sub> | [![Archivista Center](https://labs.archivista.ai/thumbnails/center-2.png)](https://labs.archivista.ai/) <br> **Archivista Center** · *Aug 13, 2025–Ongoing* <br> <sub>Internal Idea • Discovery • Centralized • Orchestration</sub> |
+| [![Eternal Storage](https://labs.archivista.ai/thumbnails/storage-3.png)](https://labs.archivista.ai/eternal-storage) <br> **Eternal Storage** · *Aug 07, 2025–Ongoing* <br> <sub>Customer Pain Point • Discovery • Storage • Architecture</sub> | [![Record Studio Admin](https://labs.archivista.ai/thumbnails/records-admin-2.png)](https://labs.archivista.ai/record-studio-admin) <br> **Record Studio Admin** · *Jun 19, 2025–Ongoing* <br> <sub>Internal Idea • Development • Branding • Custom App</sub> | [![Eternal Records](https://labs.archivista.ai/thumbnails/records-3.png)](https://labs.archivista.ai/eternal-records) <br> **Eternal Records** · *Dec 31, 2023–Ongoing* <br> <sub>Opportunity/Delight • Production • Records • Compliance</sub> |
 
 ---
 
-### 📈 Dev Stats (auto‑updated)
+### 📈 Dev Stats (auto-updated)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&theme=default&include_all_commits=true"/>
@@ -179,41 +95,9 @@
 
 ### 🐍 Contribution Snake (animated)
 
-> Enable this GitHub Action to animate your contribution grid.
-
 <p align="center">
   <img alt="snake gif" src="https://raw.githubusercontent.com/LeonelSalvo/LeonelSalvo/output/snake.svg"/>
 </p>
-
-<details>
-  <summary>Setup: .github/workflows/snake.yml</summary>
-
-```yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: LeonelSalvo
-          outputs: |
-            dist/snake.svg
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -229,6 +113,4 @@ jobs:
 ### 🤝 Let’s connect
 
 * 💼 LinkedIn: <a href="https://www.linkedin.com/in/agustin-leonel-salvo/">/in/agustin-leonel-salvo</a>
-* ✉️ Email: <a href="mailto:leonel.salvo@archivista.com">[leonel.salvo@archivista.com](mailto:leonel.salvo@archivista.com)</a>
-
----
+* ✉️ Email: <a href="mailto:leonel.salvo@archivista.com">leonel.salvo@archivista.com</a>
