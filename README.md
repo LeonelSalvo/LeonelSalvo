@@ -1,11 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Agustín%20Leonel%20Salvo&fontSize=50&fontAlign=50&fontAlignY=32&desc=Head%20of%20Discovery%20%26%20Frontend%20•%20AI%20×%20Web3%20×%20DX&descAlign=50&descAlignY=62"
-    alt="Agustín Leonel Salvo — Head of Discovery & Frontend"
-  />
-</p>
-
 <!-- Contact & Counters -->
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-leonel-salvo/">
