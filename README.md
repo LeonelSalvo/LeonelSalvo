@@ -15,7 +15,7 @@
 <!-- Animated tagline -->
 <p align="center" mb="20px">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&duration=2600&center=true&vCenter=true&multiline=true&width=1000&lines=Head+of+Discovery+%26+Frontend;Turning+pain+points+into+AI%E2%80%91powered+products;Next.js+App+Router%2C+shadcn%2Fui%2C+Radix%2C+MUI%2C+Framer+Motion%2C+GSAP%2C+Three.js;Web3%3A+Solidity%2C+Hardhat%2C+thirdweb%2C+wagmi%2C+ethers.js"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&duration=2600&center=true&vCenter=true&multiline=true&width=1000&lines=Head+of+Discovery+%26+Frontend;"
     alt="Animated tagline"
   />
 </p>
