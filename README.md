@@ -22,8 +22,6 @@
 
 I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; my off-hours are **neural networks built from scratch**, so I actually understand what I ship.
 
-I got here the long way — and that's the point: I can take an idea from **user discovery** all the way down to **the gradient**.
-
 <div align="center">
 
 **Full-Stack Engineer**  ➜  **Product Discovery Lead**  ➜  **Lead AI Developer**
@@ -32,9 +30,9 @@ I got here the long way — and that's the point: I can take an idea from **user
 
 </div>
 
-- 🤖 Lead a **private, multi-tenant AI engine** that delivers intelligence through **composable, per-tenant agents** (create · fine-tune · equip · compose) — RAG over access-controlled documents and connected sources, **privacy end-to-end**, shipped to production on cloud infra.
+- 🤖 Lead a **private, multi-tenant AI platform** — composable agents and RAG over a customer's own documents, in production. *(Architecture kept private.)*
 - 🔬 I rebuild modern architectures **from first principles** — no `nn.Transformer`, no wrappers I can't explain. If I lean on an abstraction, I know exactly what it wraps and why.
-- 🎮 Also: **game dev** shipped on Steam with **Godot**, and a degree in **hardware / electronics** — low-level instincts that carry into GPUs.
+- 🎮 Also: **game dev** shipped on Steam with **Godot**, and a degree in **hardware / electronics**.
 - 📚 Permanent student, currently pushing from LLMs toward **CUDA** and **quantum computing**.
 
 ---
@@ -53,15 +51,13 @@ I got here the long way — and that's the point: I can take an idea from **user
   </a>
 </div>
 
-> **At work — enterprise AI engine (Lead).** In general: a **private, multi-tenant platform** that delivers intelligence through **composable, per-tenant agents** over a customer's documents and connected sources.
->
-> Specifically: **RAG** with **document-level ACLs** · agent lifecycle (**create · fine-tune · equip · compose**) · **multi-LLM orchestration** (LiteLLM / OpenAI / Cohere / Voyage) · **connector ingestion** with user OAuth · **vector search** (OpenSearch) · async workers (**Celery / Redis**) · schema-per-tenant **Postgres** · shipped on **Azure + Kubernetes**. *(Proprietary architecture kept private.)*
+> **At work:** I lead a private, multi-tenant enterprise AI platform — composable agents and retrieval over a customer's own documents, shipped to production. *(Architecture kept private.)*
 
 ---
 
-## 🧬 Built from scratch — my study wiki → code
+## 🧬 Built from scratch
 
-I keep a **from-scratch learning wiki**: every concept written in plain language, every piece implemented and verified in code. The trail so far:
+Every concept implemented and verified in code, from first principles. The trail so far:
 
 | Built | What it is |
 |---|---|
@@ -147,8 +143,6 @@ PLANNED  →  Quantum computing (Qiskit / IBM) · Cryptography (Dan Boneh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
-
-<i>From-scratch first. Ship in production. Keep learning.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0b1020&height=120&section=footer" width="100%" />
 
