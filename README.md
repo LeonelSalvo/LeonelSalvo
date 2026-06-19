@@ -16,15 +16,15 @@
 
 <br/>
 <sub>✅ completed</sub><br/>
-![Karpathy Zero to Hero](https://img.shields.io/badge/done-Karpathy_Zero_to_Hero_10%2F10-2ea44f)
-![Stanford CS229](https://img.shields.io/badge/done-Stanford_CS229-2ea44f)
-![fast.ai](https://img.shields.io/badge/done-fast.ai_Part_1-2ea44f)
+<img src="https://img.shields.io/badge/done-Karpathy_Zero_to_Hero_10%2F10-2ea44f" alt="Zero to Hero" />
+<img src="https://img.shields.io/badge/done-Stanford_CS229-2ea44f" alt="CS229" />
+<img src="https://img.shields.io/badge/done-fast.ai_Part_1-2ea44f" alt="fast.ai" />
 <br/><br/>
 <sub>📚 currently studying</sub><br/>
-![Hugging Face LLM Course](https://img.shields.io/badge/Hugging_Face-LLM_Course-FFD21E?logo=huggingface&logoColor=black)
-![Triton](https://img.shields.io/badge/Triton-GPU_kernels-EE4C2C?logo=openai&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-GPU--MODE_/_PMPP-76B900?logo=nvidia&logoColor=white)
-![from scratch](https://img.shields.io/badge/from_scratch-MoE_·_MLA-8957e5)
+<img src="https://img.shields.io/badge/Hugging_Face-LLM_Course-FFD21E?logo=huggingface&logoColor=black" alt="HF LLM Course" />
+<img src="https://img.shields.io/badge/Triton-GPU_kernels-EE4C2C?logo=openai&logoColor=white" alt="Triton" />
+<img src="https://img.shields.io/badge/CUDA-GPU--MODE_/_PMPP-76B900?logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/from_scratch-MoE_·_MLA-8957e5" alt="MoE/MLA" />
 
 </div>
 
@@ -83,14 +83,32 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 
 ---
 
-## 🧪 Currently learning
+## 📖 Learning path
 
-```text
-DONE     →  Karpathy "Zero to Hero" 10/10 · Stanford CS229 (Andrew Ng) · fast.ai Part 1
-NOW      →  modern-nanoGPT · Hugging Face LLM Course
-NEXT     →  Triton / GPU kernels (fused attention) · MoE & MLA from scratch
-PLANNED  →  Mamba / SSM hybrids · Quantum computing (Qiskit / IBM)
-```
+### ✅ Completed
+
+| Course | What it covered |
+|---|---|
+| **Karpathy — Neural Networks: Zero to Hero** · 10/10 | micrograd (autograd from scratch) · makemore ×5 (bigrams → MLP → BatchNorm & init → backprop ninja → WaveNet) · Let's build GPT (the transformer) · State of GPT (SFT / RM / RLHF) · GPT Tokenizer (BPE) · Reproduce GPT-2 (mixed precision, Flash Attention, DDP) |
+| **Stanford CS229 — Machine Learning** · Andrew Ng | linear & logistic regression · GLMs · GDA · SVM & kernels · learning theory · neural nets / deep learning · unsupervised (k-means, EM, PCA, ICA) · reinforcement learning |
+| **fast.ai — Practical Deep Learning** · Part 1 | computer vision · NLP · tabular · collaborative filtering · transfer learning · the training loop, top-down |
+
+### 🔄 In progress
+
+| Track | Focus |
+|---|---|
+| **Hugging Face — LLM Course** | the `transformers` library · datasets & tokenizers · fine-tuning · Gradio demos · reasoning models (Open R1) |
+| **Triton — GPU kernels** | vector-add · fused softmax · LayerNorm · **fused attention (FlashAttention)** |
+| **CUDA — GPU-MODE + PMPP** | GPU architecture · memory model · custom kernels · *Programming Massively Parallel Processors* |
+
+### ⏭️ Next / planned
+
+| Topic | Why |
+|---|---|
+| **MoE & MLA — from scratch** | the two pieces that move modern-nanoGPT toward the DeepSeek-V3 template |
+| **nanochat** (Karpathy) | the full ChatGPT pipeline: tokenizer → pretrain → SFT → RL → serve |
+| **Mamba / SSM hybrids** | the non-transformer / linear-attention frontier |
+| **Diffusion LLMs · Quantum (Qiskit / IBM)** | the long game |
 
 ---
 
