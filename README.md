@@ -1,176 +1,155 @@
-<!-- Contact & Counters -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/agustin-leonel-salvo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1f6feb,100:8957e5&height=210&section=header&text=Leonel%20Salvo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20AI%20Developer&descSize=22&descAlignY=58" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=860&lines=Lead+AI+Developer;Building+enterprise+AI+%2F+RAG+infrastructure;Transformers+from+scratch+%E2%80%94+RMSNorm%2C+RoPE%2C+GQA%2C+SwiGLU;ML+%C2%B7+DL+%C2%B7+NN%2C+from+first+principles" alt="typing" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=Profile%20views&color=8957e5&style=flat" alt="views" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
+[![modern-nanoGPT](https://img.shields.io/badge/Featured-modern--nanoGPT-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/modern-nanoGPT)
+
+</div>
+
+---
+
+## 🧠 About me
+
+I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; my off-hours are **neural networks built from scratch**, so I actually understand what I ship.
+
+I got here the long way — and that's the point: I can take an idea from **user discovery** all the way down to **the gradient**.
+
+<div align="center">
+
+**Full-Stack Engineer**  ➜  **Product Discovery Lead**  ➜  **Lead AI Developer**
+
+<sub>shipping software · understanding what to build & for whom · now building the intelligence itself</sub>
+
+</div>
+
+- 🤖 Lead a **private, multi-tenant AI engine** that delivers intelligence through **composable, per-tenant agents** (create · fine-tune · equip · compose) — RAG over access-controlled documents and connected sources, **privacy end-to-end**, shipped to production on cloud infra.
+- 🔬 I rebuild modern architectures **from first principles** — no `nn.Transformer`, no wrappers I can't explain. If I lean on an abstraction, I know exactly what it wraps and why.
+- 🎮 Also: **game dev** shipped on Steam with **Godot**, and a degree in **hardware / electronics** — low-level instincts that carry into GPUs.
+- 📚 Permanent student, currently pushing from LLMs toward **CUDA** and **quantum computing**.
+
+---
+
+## 🔭 What I'm building now
+
+<a href="https://github.com/LeonelSalvo/modern-nanoGPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=modern-nanoGPT&theme=tokyonight&hide_border=true" alt="modern-nanoGPT" />
+</a>
+
+**`modern-nanoGPT`** — a GPT built from scratch in PyTorch, upgraded from the GPT-2 recipe to the **2026 open-weight stack**: **RMSNorm · RoPE · SwiGLU · GQA · tied weights**. Ships a step-by-step build (one component at a time, each with a self-checking test) and a trained run on TinyShakespeare (val ≈ 1.48 on a single RTX 3090).
+
+<div align="center">
+  <a href="https://github.com/LeonelSalvo/modern-nanoGPT">
+    <img src="https://raw.githubusercontent.com/LeonelSalvo/modern-nanoGPT/main/loss_curve.png" width="460" alt="modern-nanoGPT training curve" />
   </a>
-  <a href="mailto:leonel.salvo@archivista.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://github.com/LeonelSalvo?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/LeonelSalvo?label=Followers&style=for-the-badge&color=0ea5e9">
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=LeonelSalvo&style=for-the-badge&color=0ea5e9"/>
-</p>
+</div>
 
-<!-- Animated tagline -->
-<p align="center" mb="20px">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&duration=2600&center=true&vCenter=true&multiline=true&width=1000&lines=Head+of+Discovery+%26+Frontend;"
-    alt="Animated tagline"
-  />
-</p>
+> **At work — enterprise AI engine (Lead).** In general: a **private, multi-tenant platform** that delivers intelligence through **composable, per-tenant agents** over a customer's documents and connected sources.
+>
+> Specifically: **RAG** with **document-level ACLs** · agent lifecycle (**create · fine-tune · equip · compose**) · **multi-LLM orchestration** (LiteLLM / OpenAI / Cohere / Voyage) · **connector ingestion** with user OAuth · **vector search** (OpenSearch) · async workers (**Celery / Redis**) · schema-per-tenant **Postgres** · shipped on **Azure + Kubernetes**. *(Proprietary architecture kept private.)*
 
 ---
 
-### 🧰 Tech Stack
+## 🧬 Built from scratch — my study wiki → code
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88ce02" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
-  <img src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFCC00?style=for-the-badge" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white" alt="thirdweb"/>
-  <img src="https://img.shields.io/badge/wagmi-0A0A0A?style=for-the-badge" alt="wagmi"/>
-  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/>
-  <img src="https://img.shields.io/badge/Froala-2D2E83?style=for-the-badge" alt="Froala"/>
-</p>
+I keep a **from-scratch learning wiki**: every concept written in plain language, every piece implemented and verified in code. The trail so far:
+
+| Built | What it is |
+|---|---|
+| **micrograd** | a tiny autograd engine — backprop by hand |
+| **makemore** | MLP, BatchNorm, manual backprop, WaveNet — language models step by step |
+| **BPE tokenizer** | byte-pair encoding, round-trip exact |
+| **self-attention** | the attention mechanism, from the math up |
+| **modern-nanoGPT** | the full 2026 transformer (RMSNorm · RoPE · GQA · SwiGLU) |
+
+<sub>Method: from-scratch first; a wrapper is only allowed once I can name what it wraps and the trade-off.</sub>
 
 ---
 
-### 👋 TL;DR
+## 🧪 Currently learning
 
-- I run **Discovery** and **Frontend**. I turn stakeholder pain points into validated prototypes, then ship.
-- Frontend specialist with **Next.js App Router**, **React**, **Tailwind**, **shadcn/ui**, **Radix**, **MUI**, **Framer Motion**, **GSAP**, **Three.js**, **D3**, **Froala**.
-- Web3 & full-stack experience: **Solidity** (smart contracts), **TypeScript/NestJS**, **Hardhat**, **thirdweb**, **wagmi**, **ethers.js**.
-- Love building **interactive, animated, data-rich** UIs and **AI-assisted** product flows.
-
----
-
-### 🔎 Discovery Playbook (DDD)
-
-> From 0 → 1 with sharp loops.
-
-1. **Signal Intake** — CEO/COO, investors, clients → align on outcomes & guardrails.  
-2. **Rapid Prototyping (AI-first)** — mock journeys, prompt flows, and UI shells targeting pains/desires.  
-3. **Solution Shaping** — **DoD** + **PRD** with risks, scope slices, and metrics.  
-4. **Plan & Handoff** — business ↔ dev translation, planning, and delivery roadmap.
-
-<details>
-  <summary>Artifacts I produce</summary>
-  <ul>
-    <li>Discovery briefs, UX maps, prototype videos/GIFs</li>
-    <li>DoD/PRD docs with acceptance criteria</li>
-    <li>Tech spikes, component libraries, design tokens</li>
-    <li>Dev handoff packs (tickets, milestones, estimates)</li>
-  </ul>
-</details>
+```text
+DONE     →  Karpathy "Zero to Hero" 10/10 · Stanford CS229 (Andrew Ng) · fast.ai Part 1
+NOW      →  modern-nanoGPT · Diffusion models (fast.ai Part 2)
+NEXT     →  CUDA / GPU programming · Mamba / SSM (transformer ↔ state-space)
+PLANNED  →  Quantum computing (Qiskit / IBM) · Cryptography (Dan Boneh)
+```
 
 ---
 
-### 📈 Dev Stats (auto-updated)
+## 🛠️ Tech & tools
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=LeonelSalvo&theme=dark&hide_border=true" alt="GitHub streak"/>
+**AI / ML / DL**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" height="40" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-1f6feb?style=flat" />
+  <img src="https://img.shields.io/badge/LLM%20orchestration-8957e5?style=flat" />
+  <img src="https://img.shields.io/badge/Vector%20search-00A98F?style=flat" />
 </p>
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,postgres,redis&theme=dark" height="40" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonelSalvo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Profile Trophies"/>
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonelSalvo&area=true&hide_border=true&radius=8&theme=github-compact" alt="Contribution activity graph"/>
+**Infra & tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,linux&theme=dark" height="40" />
+</p>
+
+**Also**
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,solidity,cpp&theme=dark" height="40" />
 </p>
 
 ---
 
-### 🧪 What I’m exploring now
+## 📊 GitHub stats
 
-- **RSC** + Next.js App Router, streaming UIs  
-- **Three.js/WebGPU** for product explainers  
-- **AI** assistants embedded in discovery flows  
-- **D3** narrative data viz  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs" />
 
-### ✨ Featured Demos
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonelSalvo&theme=tokyonight&hide_border=true" alt="streak" />
 
-<!-- Use plain tables + fixed widths so the grid looks great in light/dark modes and on mobile. -->
+<img src="https://github-profile-trophy.vercel.app/?username=LeonelSalvo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://labs.archivista.ai/">
-        <img src="https://labs.archivista.ai/thumbnails/ask-archi.png" alt="Ask Archi" width="380">
-      </a><br/>
-      <b>Ask Archi</b><br/>
-      <sub>Aug 21, 2025 — Ongoing</sub><br/>
-      <sub>Internal Idea • Discovery • Assistant</sub>
-    </td>
-    <td align="center">
-      <a href="https://labs.archivista.ai/">
-        <img src="https://labs.archivista.ai/thumbnails/labs-2.png" alt="Archivista Labs" width="380">
-      </a><br/>
-      <b>Archivista Labs</b><br/>
-      <sub>Aug 14, 2025 — Ongoing</sub><br/>
-      <sub>Internal Idea • Discovery • Innovation • Prototypes</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://labs.archivista.ai/">
-        <img src="https://labs.archivista.ai/thumbnails/center-2.png" alt="Archivista Center" width="380">
-      </a><br/>
-      <b>Archivista Center</b><br/>
-      <sub>Aug 13, 2025 — Ongoing</sub><br/>
-      <sub>Internal Idea • Discovery • Centralized • Orchestration</sub>
-    </td>
-    <td align="center">
-      <a href="https://labs.archivista.ai/eternal-storage">
-        <img src="https://labs.archivista.ai/thumbnails/storage-3.png" alt="Eternal Storage" width="380">
-      </a><br/>
-      <b>Eternal Storage</b><br/>
-      <sub>Aug 07, 2025 — Ongoing</sub><br/>
-      <sub>Customer Pain Point • Discovery • Storage • Architecture</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://labs.archivista.ai/record-studio-admin">
-        <img src="https://labs.archivista.ai/thumbnails/records-admin-2.png" alt="Record Studio Admin" width="380">
-      </a><br/>
-      <b>Record Studio Admin</b><br/>
-      <sub>Jun 19, 2025 — Ongoing</sub><br/>
-      <sub>Internal Idea • Development • Branding • Custom App</sub>
-    </td>
-    <td align="center">
-      <a href="https://labs.archivista.ai/eternal-records">
-        <img src="https://labs.archivista.ai/thumbnails/records-3.png" alt="Eternal Records" width="380">
-      </a><br/>
-      <b>Eternal Records</b><br/>
-      <sub>Dec 31, 2023 — Ongoing</sub><br/>
-      <sub>Opportunity/Delight • Production • Records • Compliance</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonelSalvo&area=true&hide_border=true&radius=8&theme=react-dark" width="100%" alt="activity graph" />
+
+</div>
 
 ---
 
-### 🤝 Let’s connect
+<div align="center">
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/agustin-leonel-salvo/">/in/agustin-leonel-salvo</a>  
-- ✉️ Email: <a href="mailto:leonel.salvo@archivista.com">leonel.salvo@archivista.com</a>
+### 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
+
+<i>From-scratch first. Ship in production. Keep learning.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0b1020&height=120&section=footer" width="100%" />
+
+</div>
