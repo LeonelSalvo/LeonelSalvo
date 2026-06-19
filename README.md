@@ -14,6 +14,18 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
 [![modern-nanoGPT](https://img.shields.io/badge/Featured-modern--nanoGPT-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/modern-nanoGPT)
 
+<br/>
+<sub>✅ completed</sub><br/>
+![Karpathy Zero to Hero](https://img.shields.io/badge/done-Karpathy_Zero_to_Hero_10%2F10-2ea44f)
+![Stanford CS229](https://img.shields.io/badge/done-Stanford_CS229-2ea44f)
+![fast.ai](https://img.shields.io/badge/done-fast.ai_Part_1-2ea44f)
+<br/><br/>
+<sub>📚 currently studying</sub><br/>
+![Hugging Face LLM Course](https://img.shields.io/badge/Hugging_Face-LLM_Course-FFD21E?logo=huggingface&logoColor=black)
+![Triton](https://img.shields.io/badge/Triton-GPU_kernels-EE4C2C?logo=openai&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-GPU--MODE_/_PMPP-76B900?logo=nvidia&logoColor=white)
+![from scratch](https://img.shields.io/badge/from_scratch-MoE_·_MLA-8957e5)
+
 </div>
 
 ---
@@ -55,17 +67,17 @@ I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; 
 
 ---
 
-## 🧬 Built from scratch
+## 🧬 Reproduced from scratch
 
-Every concept implemented and verified in code, from first principles. The trail so far:
+I didn't invent these — I learned them by **rebuilding and verifying each one in code**, following Andrej Karpathy's *Zero to Hero* and the open-model papers. The trail so far:
 
-| Built | What it is |
-|---|---|
-| **micrograd** | a tiny autograd engine — backprop by hand |
-| **makemore** | MLP, BatchNorm, manual backprop, WaveNet — language models step by step |
-| **BPE tokenizer** | byte-pair encoding, round-trip exact |
-| **self-attention** | the attention mechanism, from the math up |
-| **modern-nanoGPT** | the full 2026 transformer (RMSNorm · RoPE · GQA · SwiGLU) |
+| Built | What it is | Learned from |
+|---|---|---|
+| **micrograd** | a tiny autograd engine — backprop by hand | Karpathy · *Zero to Hero* |
+| **makemore** | MLP, BatchNorm, manual backprop, WaveNet | Karpathy · *Zero to Hero* |
+| **BPE tokenizer** | byte-pair encoding, round-trip exact | Karpathy · *minBPE* |
+| **self-attention** | the attention mechanism, from the math up | *Attention Is All You Need* · Karpathy |
+| **modern-nanoGPT** | the 2026 transformer (RMSNorm · RoPE · GQA · SwiGLU) | nanoGPT + Llama / Mistral / Qwen papers |
 
 <sub>Method: from-scratch first; a wrapper is only allowed once I can name what it wraps and the trade-off.</sub>
 
@@ -75,9 +87,9 @@ Every concept implemented and verified in code, from first principles. The trail
 
 ```text
 DONE     →  Karpathy "Zero to Hero" 10/10 · Stanford CS229 (Andrew Ng) · fast.ai Part 1
-NOW      →  modern-nanoGPT · Diffusion models (fast.ai Part 2)
-NEXT     →  CUDA / GPU programming · Mamba / SSM (transformer ↔ state-space)
-PLANNED  →  Quantum computing (Qiskit / IBM) · Cryptography (Dan Boneh)
+NOW      →  modern-nanoGPT · Hugging Face LLM Course
+NEXT     →  Triton / GPU kernels (fused attention) · MoE & MLA from scratch
+PLANNED  →  Mamba / SSM hybrids · Quantum computing (Qiskit / IBM)
 ```
 
 ---
