@@ -1,81 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1f6feb,100:8957e5&height=210&section=header&text=Leonel%20Salvo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20AI%20Developer&descSize=22&descAlignY=58" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=860&lines=Lead+AI+Developer;Building+enterprise+AI+%2F+RAG+infrastructure;Transformers+from+scratch+%E2%80%94+RMSNorm%2C+RoPE%2C+GQA%2C+SwiGLU;ML+%C2%B7+DL+%C2%B7+NN%2C+from+first+principles" alt="typing" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=Profile%20views&color=8957e5&style=flat" alt="views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1f6feb,100:8957e5&height=200&section=header&text=Leonel%20Salvo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20AI%20Developer%20%C2%B7%20neural%20networks%20from%20first%20principles&descSize=18&descAlignY=58" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
-[![modern-nanoGPT](https://img.shields.io/badge/Featured-modern--nanoGPT-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/modern-nanoGPT)
-[![nano-moe-mla](https://img.shields.io/badge/Featured-nano--moe--mla-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/nano-moe-mla)
-[![frontier-llm-techniques](https://img.shields.io/badge/Featured-frontier--llm--techniques--2026--Q1-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1)
-
-<br/>
-<sub>✅ completed</sub><br/>
-<img src="https://img.shields.io/badge/done-Karpathy_Zero_to_Hero_10%2F10-2ea44f" alt="Zero to Hero" />
-<img src="https://img.shields.io/badge/done-Stanford_CS229-2ea44f" alt="CS229" />
-<img src="https://img.shields.io/badge/done-fast.ai_Part_1-2ea44f" alt="fast.ai" />
-<br/><br/>
-<sub>📚 currently studying</sub><br/>
-<img src="https://img.shields.io/badge/Hugging_Face-LLM_Course-FFD21E?logo=huggingface&logoColor=black" alt="HF LLM Course" />
-<img src="https://img.shields.io/badge/Triton-GPU_kernels-EE4C2C?logo=openai&logoColor=white" alt="Triton" />
-<img src="https://img.shields.io/badge/CUDA-GPU--MODE_/_PMPP-76B900?logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/from_scratch-MoE_·_MLA-8957e5" alt="MoE/MLA" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=views&color=8957e5&style=flat" alt="views" />
 
 </div>
+
+## 🧠 About
+
+**Lead AI Developer** — production AI infrastructure by day, **neural networks rebuilt from scratch** by night, so I actually understand what I ship.
+
+<div align="center"><sub><b>Full-Stack Engineer&nbsp; ➜ &nbsp;Product Discovery Lead&nbsp; ➜ &nbsp;Lead AI Developer</b></sub></div>
+
+- 🤖 &nbsp;Lead a private, multi-tenant **AI platform** — composable agents + RAG over a customer's own documents, in production.
+- 🔬 &nbsp;I rebuild modern architectures **from first principles** — no `nn.Transformer`, no wrapper I can't explain.
+- 🎮 &nbsp;Also: a **Godot** game shipped on Steam, and a degree in **hardware / electronics**.
+- 📚 &nbsp;Permanent student, pushing from LLMs toward **CUDA** and **quantum**.
 
 ---
 
-## 🧠 About me
+## 🔭 Building now — LLMs from scratch
 
-I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; my off-hours are **neural networks built from scratch**, so I actually understand what I ship.
-
-<div align="center">
-
-**Full-Stack Engineer**  ➜  **Product Discovery Lead**  ➜  **Lead AI Developer**
-
-<sub>shipping software · understanding what to build & for whom · now building the intelligence itself</sub>
-
-</div>
-
-- 🤖 Lead a **private, multi-tenant AI platform** — composable agents and RAG over a customer's own documents, in production. *(Architecture kept private.)*
-- 🔬 I rebuild modern architectures **from first principles** — no `nn.Transformer`, no wrappers I can't explain. If I lean on an abstraction, I know exactly what it wraps and why.
-- 🎮 Also: **game dev** shipped on Steam with **Godot**, and a degree in **hardware / electronics**.
-- 📚 Permanent student, currently pushing from LLMs toward **CUDA** and **quantum computing**.
-
----
-
-## 🔭 What I'm building now
-
-<a href="https://github.com/LeonelSalvo/modern-nanoGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=modern-nanoGPT&theme=tokyonight&hide_border=true" alt="modern-nanoGPT" />
-</a>
-
-**`modern-nanoGPT`** — a GPT built from scratch in PyTorch, upgraded from the GPT-2 recipe to the **2026 open-weight stack**: **RMSNorm · RoPE · SwiGLU · GQA · tied weights**. Ships a step-by-step build (one component at a time, each with a self-checking test) and a trained run on TinyShakespeare (val ≈ 1.48 on a single RTX 3090).
-
-<div align="center">
-  <a href="https://github.com/LeonelSalvo/modern-nanoGPT">
-    <img src="https://raw.githubusercontent.com/LeonelSalvo/modern-nanoGPT/main/loss_curve.png" width="460" alt="modern-nanoGPT training curve" />
-  </a>
-</div>
-
-<a href="https://github.com/LeonelSalvo/nano-moe-mla">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=nano-moe-mla&theme=tokyonight&hide_border=true" alt="nano-moe-mla" />
-</a>
-
-**`nano-moe-mla`** — the sparse follow-up: **MoE** (mixture-of-experts) and **MLA** (multi-head latent attention) built from scratch in one trainable model, with the tooling to measure them — a labeled multi-domain corpus, a router-specialization probe (mutual information), and a stack ablation with seed-averaged error bars (the balancing ↔ specialization tradeoff, confirmed).
-
-<a href="https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=frontier-llm-techniques-2026-Q1&theme=tokyonight&hide_border=true" alt="frontier-llm-techniques-2026-Q1" />
-</a>
-
-**`frontier-llm-techniques-2026-Q1`** — from-scratch modules for techniques at the frontier of open LLMs right now: the **Muon optimizer** (orthogonalized momentum — used to train Kimi K2), **Multi-Token Prediction** (in DeepSeek-V3, Gemma 4, GLM, Qwen), plus a base **BPE** tokenizer. Each self-contained and self-checking, with an AdamW-vs-Muon benchmark.
+<table>
+<tr>
+<td width="44%" valign="top">
+<a href="https://github.com/LeonelSalvo/modern-nanoGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=modern-nanoGPT&theme=tokyonight&hide_border=true" alt="modern-nanoGPT" /></a>
+</td>
+<td valign="top">
+<br/><b>The modern dense transformer.</b> The GPT-2 skeleton upgraded to the 2026 open-weight stack — <b>RMSNorm · RoPE · SwiGLU · GQA · tied weights</b> — built one self-checking component at a time. Trained on a single RTX 3090 (val ≈ 1.48).
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/LeonelSalvo/nano-moe-mla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=nano-moe-mla&theme=tokyonight&hide_border=true" alt="nano-moe-mla" /></a>
+</td>
+<td valign="top">
+<br/><b>The sparse template: MoE + MLA in one model.</b> Built from scratch with the instruments to study it — a labeled multi-domain corpus, a router-specialization probe (mutual information), and a <b>seed-averaged stack ablation</b> that confirms the balancing ↔ specialization tradeoff.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=frontier-llm-techniques-2026-Q1&theme=tokyonight&hide_border=true" alt="frontier-llm-techniques-2026-Q1" /></a>
+</td>
+<td valign="top">
+<br/><b>Frontier techniques, from scratch.</b> The <b>Muon</b> optimizer (used to train Kimi K2) and <b>Multi-Token Prediction</b> (DeepSeek-V3, Gemma 4, GLM, Qwen), plus a base <b>BPE</b> tokenizer — each self-contained and self-checking, with an AdamW-vs-Muon benchmark.
+</td>
+</tr>
+</table>
 
 > **At work:** I lead a private, multi-tenant enterprise AI platform — composable agents and retrieval over a customer's own documents, shipped to production. *(Architecture kept private.)*
 
@@ -83,18 +58,18 @@ I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; 
 
 ## 🧬 Reproduced from scratch
 
-I didn't invent these — I learned them by **rebuilding and verifying each one in code**, following Andrej Karpathy's *Zero to Hero* and the open-model papers. The trail so far:
+I didn't invent these — I learned them by **rebuilding and verifying each one in code**, following Karpathy's *Zero to Hero* and the open-model papers.
 
 | Built | What it is | Learned from |
 |---|---|---|
 | **micrograd** | a tiny autograd engine — backprop by hand | Karpathy · *Zero to Hero* |
 | **makemore** | MLP, BatchNorm, manual backprop, WaveNet | Karpathy · *Zero to Hero* |
-| **BPE tokenizer** | byte-pair encoding, round-trip exact | Karpathy · *minBPE* |
-| **self-attention** | the attention mechanism, from the math up | *Attention Is All You Need* · Karpathy |
-| **modern-nanoGPT** | the modern dense transformer (RMSNorm · RoPE · GQA · SwiGLU) | nanoGPT + Llama / Mistral / Qwen papers |
-| **nano-moe-mla** | sparse template: MoE + MLA in one model, with a routing probe + ablation | DeepSeek-V2/V3 papers · nanoGPT |
-| **Muon optimizer** | orthogonalized-momentum (Newton-Schulz) + an AdamW-vs-Muon benchmark | Keller Jordan · Moonshot (Kimi K2) |
+| **self-attention** | the attention mechanism, from the math up | *Attention Is All You Need* |
+| **modern-nanoGPT** | the modern dense transformer (RMSNorm · RoPE · GQA · SwiGLU) | nanoGPT + Llama / Mistral / Qwen |
+| **nano-moe-mla** | sparse MoE + MLA in one model, with a routing probe + ablation | DeepSeek-V2/V3 papers |
+| **Muon optimizer** | orthogonalized-momentum (Newton-Schulz) + a benchmark | Keller Jordan · Moonshot (Kimi K2) |
 | **Multi-Token Prediction** | a 2nd head predicting t+2 — a denser training signal | DeepSeek-V3 |
+| **BPE tokenizer** | byte-pair encoding, exact round-trip | Karpathy · *minBPE* |
 
 <sub>Method: from-scratch first; a wrapper is only allowed once I can name what it wraps and the trade-off.</sub>
 
@@ -102,95 +77,63 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 
 ## 📖 Learning path
 
-### ✅ Completed
+<table>
+<tr><td valign="top" width="50%">
 
-| Course | What it covered |
-|---|---|
-| **Karpathy — Neural Networks: Zero to Hero** · 10/10 | micrograd (autograd from scratch) · makemore ×5 (bigrams → MLP → BatchNorm & init → backprop ninja → WaveNet) · Let's build GPT (the transformer) · State of GPT (SFT / RM / RLHF) · GPT Tokenizer (BPE) · Reproduce GPT-2 (mixed precision, Flash Attention, DDP) |
-| **Stanford CS229 — Machine Learning** · Andrew Ng | linear & logistic regression · GLMs · GDA · SVM & kernels · learning theory · neural nets / deep learning · unsupervised (k-means, EM, PCA, ICA) · reinforcement learning |
-| **fast.ai — Practical Deep Learning** · Part 1 | computer vision · NLP · tabular · collaborative filtering · transfer learning · the training loop, top-down |
+**✅ Done**
+- Karpathy — **Neural Networks: Zero to Hero** (10/10)
+- Stanford **CS229** — Machine Learning (Andrew Ng)
+- **fast.ai** — Practical Deep Learning, Part 1
 
-### 🔄 In progress
+</td><td valign="top" width="50%">
 
-| Track | Focus |
-|---|---|
-| **Hugging Face — LLM Course** | the `transformers` library · datasets & tokenizers · fine-tuning · Gradio demos · reasoning models (Open R1) |
-| **Triton — GPU kernels** | vector-add · fused softmax · LayerNorm · **fused attention (FlashAttention)** |
-| **CUDA — GPU-MODE + PMPP** | GPU architecture · memory model · custom kernels · *Programming Massively Parallel Processors* |
+**🔄 In progress**
+- **Hugging Face — LLM Course** (transformers, fine-tuning, reasoning)
+- Reinforcing **attention internals** (RoPE · KV-cache · RMSNorm)
 
-### ⏭️ Next / planned
+</td></tr>
+<tr><td valign="top">
 
-| Topic | Why |
-|---|---|
-| **Scale `nano-moe-mla`** | BPE + a real corpus, a batched MoE kernel (Triton), larger-scale routing runs |
-| **nanochat** (Karpathy) | the full ChatGPT pipeline: tokenizer → pretrain → SFT → RL → serve |
-| **Mamba / SSM hybrids** | the non-transformer / linear-attention frontier |
-| **Diffusion LLMs · Quantum (Qiskit / IBM)** | the long game |
+**⏭️ Next**
+- **nanochat** (Karpathy) — the full ChatGPT pipeline
+- Raschka — **Build a Reasoning Model (From Scratch)**
 
----
+</td><td valign="top">
 
-## 🛠️ Tech & tools
+**🧪 Later**
+- **Triton → GPU-MODE + PMPP** (CUDA kernels)
+- Mamba / SSM hybrids · Diffusion LLMs · Quantum
 
-**AI / ML / DL**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" height="40" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-1f6feb?style=flat" />
-  <img src="https://img.shields.io/badge/LLM%20orchestration-8957e5?style=flat" />
-  <img src="https://img.shields.io/badge/Vector%20search-00A98F?style=flat" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,postgres,redis&theme=dark" height="40" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" height="40" />
-</p>
-
-**Infra & tooling**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,linux&theme=dark" height="40" />
-</p>
-
-**Also**
-<p>
-  <img src="https://skillicons.dev/icons?i=godot,solidity,cpp&theme=dark" height="40" />
-</p>
+</td></tr>
+</table>
 
 ---
 
-## 📊 GitHub stats
+## 🛠️ Stack
 
-<div align="center">
+**AI / ML** &nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-1f6feb" />
+<img src="https://img.shields.io/badge/Triton-EE4C2C" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs" />
+**Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,postgres,redis&theme=dark" height="28" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonelSalvo&theme=tokyonight&hide_border=true" alt="streak" />
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" height="28" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeonelSalvo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonelSalvo&area=true&hide_border=true&radius=8&theme=react-dark" width="100%" alt="activity graph" />
-
-</div>
+**Infra & also** &nbsp;
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,godot,cpp&theme=dark" height="28" />
 
 ---
 
 <div align="center">
 
-### 🤝 Let's connect
+<img src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="160" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="top langs" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0b1020&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0b1020&height=110&section=footer" width="100%" />
 
 </div>
