@@ -13,6 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
 [![modern-nanoGPT](https://img.shields.io/badge/Featured-modern--nanoGPT-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/modern-nanoGPT)
+[![nano-moe-mla](https://img.shields.io/badge/Featured-nano--moe--mla-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/nano-moe-mla)
+[![frontier-llm-techniques](https://img.shields.io/badge/Featured-frontier--llm--techniques--2026--Q1-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1)
 
 <br/>
 <sub>✅ completed</sub><br/>
@@ -63,6 +65,18 @@ I'm a **Lead AI Developer**. My day-to-day is **production AI infrastructure**; 
   </a>
 </div>
 
+<a href="https://github.com/LeonelSalvo/nano-moe-mla">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=nano-moe-mla&theme=tokyonight&hide_border=true" alt="nano-moe-mla" />
+</a>
+
+**`nano-moe-mla`** — the sparse follow-up: **MoE** (mixture-of-experts) and **MLA** (multi-head latent attention) built from scratch in one trainable model, with the tooling to measure them — a labeled multi-domain corpus, a router-specialization probe (mutual information), and a stack ablation with seed-averaged error bars (the balancing ↔ specialization tradeoff, confirmed).
+
+<a href="https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=frontier-llm-techniques-2026-Q1&theme=tokyonight&hide_border=true" alt="frontier-llm-techniques-2026-Q1" />
+</a>
+
+**`frontier-llm-techniques-2026-Q1`** — from-scratch modules for techniques at the frontier of open LLMs right now: the **Muon optimizer** (orthogonalized momentum — used to train Kimi K2), **Multi-Token Prediction** (in DeepSeek-V3, Gemma 4, GLM, Qwen), plus a base **BPE** tokenizer. Each self-contained and self-checking, with an AdamW-vs-Muon benchmark.
+
 > **At work:** I lead a private, multi-tenant enterprise AI platform — composable agents and retrieval over a customer's own documents, shipped to production. *(Architecture kept private.)*
 
 ---
@@ -77,7 +91,10 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 | **makemore** | MLP, BatchNorm, manual backprop, WaveNet | Karpathy · *Zero to Hero* |
 | **BPE tokenizer** | byte-pair encoding, round-trip exact | Karpathy · *minBPE* |
 | **self-attention** | the attention mechanism, from the math up | *Attention Is All You Need* · Karpathy |
-| **modern-nanoGPT** | the 2026 transformer (RMSNorm · RoPE · GQA · SwiGLU) | nanoGPT + Llama / Mistral / Qwen papers |
+| **modern-nanoGPT** | the modern dense transformer (RMSNorm · RoPE · GQA · SwiGLU) | nanoGPT + Llama / Mistral / Qwen papers |
+| **nano-moe-mla** | sparse template: MoE + MLA in one model, with a routing probe + ablation | DeepSeek-V2/V3 papers · nanoGPT |
+| **Muon optimizer** | orthogonalized-momentum (Newton-Schulz) + an AdamW-vs-Muon benchmark | Keller Jordan · Moonshot (Kimi K2) |
+| **Multi-Token Prediction** | a 2nd head predicting t+2 — a denser training signal | DeepSeek-V3 |
 
 <sub>Method: from-scratch first; a wrapper is only allowed once I can name what it wraps and the trade-off.</sub>
 
@@ -105,7 +122,7 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 
 | Topic | Why |
 |---|---|
-| **MoE & MLA — from scratch** | the two pieces that move modern-nanoGPT toward the DeepSeek-V3 template |
+| **Scale `nano-moe-mla`** | BPE + a real corpus, a batched MoE kernel (Triton), larger-scale routing runs |
 | **nanochat** (Karpathy) | the full ChatGPT pipeline: tokenizer → pretrain → SFT → RL → serve |
 | **Mamba / SSM hybrids** | the non-transformer / linear-attention frontier |
 | **Diffusion LLMs · Quantum (Qiskit / IBM)** | the long game |
