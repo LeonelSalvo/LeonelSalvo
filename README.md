@@ -56,6 +56,41 @@
 
 ---
 
+## 🎨 Pixel-art generation — my own style, from scratch
+
+A tool to **prototype game assets in my own pixel-art style**: the model gives the *vibe*, a from-scratch numpy pipeline enforces the *rules* — **real grid · exact palette · dithering** — and I finish in Aseprite. Split by engine so the stronger one wins.
+
+<table>
+<tr>
+<td width="44%" valign="top">
+<a href="https://github.com/LeonelSalvo/pixel-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=pixel-pipeline&theme=tokyonight&hide_border=true" alt="pixel-pipeline" /></a>
+</td>
+<td valign="top">
+<br/><b>The from-scratch core.</b> Turns any image into <i>real</i> pixel art by enforcing the hard rules no model respects — <b>real grid · exact N-color palette · dithering</b> — plus a human-like <b>saliency / value-first downscale</b> and <b>REF_LOCK</b> (lock a reference's native grid + palette). Pure numpy, no GPU, engine-agnostic.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/LeonelSalvo/pixel-proto-ar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=pixel-proto-ar&theme=tokyonight&hide_border=true" alt="pixel-proto-ar" /></a>
+</td>
+<td valign="top">
+<br/><b>The autoregressive engine.</b> Janus-Pro (image as <i>tokens</i>, like a text transformer) fine-tuned with a LoRA of my style + <b>constrained decoding</b>. The lane closest to my from-scratch transformer work — and the best-fidelity results so far.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/LeonelSalvo/pixel-proto-diffusion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=pixel-proto-diffusion&theme=tokyonight&hide_border=true" alt="pixel-proto-diffusion" /></a>
+</td>
+<td valign="top">
+<br/><b>The diffusion engine.</b> SDXL + a pixel-art LoRA + IP-Adapter — the mature control stack (LoRA / IP-Adapter / ControlNet), the competing engine and fallback.
+</td>
+</tr>
+</table>
+
+<sub>🔒 Private while I polish them — opening soon.</sub>
+
+---
+
 ## 🧬 Reproduced from scratch
 
 I didn't invent these — I learned them by **rebuilding and verifying each one in code**, following Karpathy's *Zero to Hero* and the open-model papers.
