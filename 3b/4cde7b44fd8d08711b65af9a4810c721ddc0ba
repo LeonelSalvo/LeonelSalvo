@@ -1,0 +1,23 @@
+README.md
+  s_067c2c17502771::t_e3bab01accce27 3-5,10,14-15,20-24,26-33,38-40,44-47,55-57,65-67,77-79,81-83,87,89,92,95-101,103,113,190-191,194-198,200
+assets/footer.svg
+  s_067c2c17502771::t_dfe0c7a3df6759 1-21
+assets/hero.svg
+  s_067c2c17502771::t_a7a2f15f3137ef 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3b4cde7b44fd8d08711b65af9a4810c721ddc0ba",
+  "prompts": {},
+  "sessions": {
+    "s_067c2c17502771": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3c5d180-8888-41b2-b743-f8d669a6472c",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Leo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
