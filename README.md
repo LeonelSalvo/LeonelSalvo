@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
 <img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=VIEWS&color=9b93e0&style=for-the-badge" alt="profile views" />
 
 </div>
@@ -29,9 +28,9 @@ Four directions, one method: build it myself first, then trust the tool.
 
 - 🔬 &nbsp;**Research** — I rebuild modern architectures **from first principles**: no `nn.Transformer`, no wrapper I can't explain.
 - 🤖 &nbsp;**Work** — I lead a private, multi-tenant **AI platform**: composable agents + RAG over a customer's own documents, in production.
-- 🎮 &nbsp;**Games** — a **Godot** game shipped on Steam, a one-person studio (**Pinguinista**) with the next one in production, and a degree in **hardware / electronics**.
+- 🎮 &nbsp;**Games** — a **Godot** game shipped on Steam, and a one-person studio (**Pinguinista**) with the next one in production.
 - 🧰 &nbsp;**Tools** — for working with coding agents without losing seniority: *Seniority Rounds*, opening soon.
-- 📚 &nbsp;Permanent student, pushing from LLMs toward **CUDA** and **quantum**.
+- 📚 &nbsp;Permanent student: a degree in **hardware / electronics**, and pushing from LLMs toward **CUDA** and **quantum**.
 
 ---
 
