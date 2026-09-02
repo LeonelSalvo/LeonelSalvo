@@ -30,7 +30,7 @@ Four directions, one method: build it myself first, then trust the tool.
 - 🔬 &nbsp;**Research** — I rebuild modern architectures **from first principles**: no `nn.Transformer`, no wrapper I can't explain.
 - 🤖 &nbsp;**Work** — I lead a private, multi-tenant **AI platform**: composable agents + RAG over a customer's own documents, in production.
 - 🎮 &nbsp;**Games** — a **Godot** game shipped on Steam, a one-person studio (**Pinguinista**) with the next one in production, and a degree in **hardware / electronics**.
-- 🧰 &nbsp;**Tools** — for working with coding agents without losing seniority: *Senior Rounds*, opening soon.
+- 🧰 &nbsp;**Tools** — for working with coding agents without losing seniority: *Seniority Rounds*, opening soon.
 - 📚 &nbsp;Permanent student, pushing from LLMs toward **CUDA** and **quantum**.
 
 ---
@@ -101,7 +101,7 @@ The modern stack rebuilt one self-checking component at a time, in PyTorch, on a
 <table>
 <tr>
 <td width="34%" valign="top">
-<br/><b>🃏 Senior Rounds</b><br/>
+<br/><b>🃏 Seniority Rounds</b><br/>
 <sub>TypeScript · React · three.js · a JSON contract any agent can write</sub>
 </td>
 <td valign="top">
