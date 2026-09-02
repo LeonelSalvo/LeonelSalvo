@@ -1,0 +1,14 @@
+README.md
+  h_7df2d3514267f6 1,3,5-7,9-12,14-17,19,21-22,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "376fd175e1d093616c562e3dfc07e7b7f470540a",
+  "prompts": {},
+  "humans": {
+    "h_7df2d3514267f6": {
+      "author": "Leo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
