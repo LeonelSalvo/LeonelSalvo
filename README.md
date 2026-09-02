@@ -1,35 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1f6feb,100:8957e5&height=200&section=header&text=Leonel%20Salvo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20AI%20Developer%20%C2%B7%20neural%20networks%20from%20first%20principles&descSize=18&descAlignY=58" width="100%" />
+<img src="assets/hero.svg" width="100%" alt="Leonel Salvo — Lead AI Developer · neural networks from first principles" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonelSalvo)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=views&color=8957e5&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=VIEWS&color=9b93e0&style=for-the-badge" alt="profile views" />
 
 </div>
+
+<br/>
 
 ## 🧠 About
 
 **Lead AI Developer** — production AI infrastructure by day, **neural networks rebuilt from scratch** by night, so I actually understand what I ship.
 
-<div align="center"><sub><b>Full-Stack Engineer&nbsp; ➜ &nbsp;Product Discovery Lead&nbsp; ➜ &nbsp;Lead AI Developer</b></sub></div>
+<div align="center">
 
-- 🤖 &nbsp;Lead a private, multi-tenant **AI platform** — composable agents + RAG over a customer's own documents, in production.
-- 🔬 &nbsp;I rebuild modern architectures **from first principles** — no `nn.Transformer`, no wrapper I can't explain.
-- 🎮 &nbsp;Also: a **Godot** game shipped on Steam, a one-person studio (**Pinguinista**) with the next one in production, and a degree in **hardware / electronics**.
-- 🧰 &nbsp;Building **tools for working with coding agents** without losing seniority — *Senior Rounds*, opening soon.
+<sub><b>Full-Stack Engineer&nbsp; ➜ &nbsp;Product Discovery Lead&nbsp; ➜ &nbsp;Lead AI Developer</b></sub>
+
+<br/>
+
+</div>
+
+Four directions, one method: build it myself first, then trust the tool.
+
+- 🔬 &nbsp;**Research** — I rebuild modern architectures **from first principles**: no `nn.Transformer`, no wrapper I can't explain.
+- 🤖 &nbsp;**Work** — I lead a private, multi-tenant **AI platform**: composable agents + RAG over a customer's own documents, in production.
+- 🎮 &nbsp;**Games** — a **Godot** game shipped on Steam, a one-person studio (**Pinguinista**) with the next one in production, and a degree in **hardware / electronics**.
+- 🧰 &nbsp;**Tools** — for working with coding agents without losing seniority: *Senior Rounds*, opening soon.
 - 📚 &nbsp;Permanent student, pushing from LLMs toward **CUDA** and **quantum**.
 
 ---
 
-## 🔭 Building now — LLMs from scratch
+## 🔬 Research — LLMs from scratch
+
+The modern stack rebuilt one self-checking component at a time, in PyTorch, on a single RTX 3090.
 
 <table>
 <tr>
-<td width="44%" valign="top">
-<a href="https://github.com/LeonelSalvo/modern-nanoGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=modern-nanoGPT&theme=tokyonight&hide_border=true" alt="modern-nanoGPT" /></a>
+<td width="34%" valign="top">
+<br/><a href="https://github.com/LeonelSalvo/modern-nanoGPT"><b>modern-nanoGPT</b></a><br/>
+<sub>dense transformer · RMSNorm · RoPE · SwiGLU · GQA</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/LeonelSalvo/modern-nanoGPT?style=flat-square&labelColor=0b0b0d&color=9b93e0&logo=github" alt="stars" />
 </td>
 <td valign="top">
 <br/><b>The modern dense transformer.</b> The GPT-2 skeleton upgraded to the 2026 open-weight stack — <b>RMSNorm · RoPE · SwiGLU · GQA · tied weights</b> — built one self-checking component at a time. Trained on a single RTX 3090 (val ≈ 1.48).
@@ -37,7 +52,9 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/LeonelSalvo/nano-moe-mla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=nano-moe-mla&theme=tokyonight&hide_border=true" alt="nano-moe-mla" /></a>
+<br/><a href="https://github.com/LeonelSalvo/nano-moe-mla"><b>nano-moe-mla</b></a><br/>
+<sub>sparse MoE + MLA · routing probe · ablation</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/LeonelSalvo/nano-moe-mla?style=flat-square&labelColor=0b0b0d&color=9b93e0&logo=github" alt="stars" />
 </td>
 <td valign="top">
 <br/><b>The sparse template: MoE + MLA in one model.</b> Built from scratch with the instruments to study it — a labeled multi-domain corpus, a router-specialization probe (mutual information), and a <b>seed-averaged stack ablation</b> that confirms the balancing ↔ specialization tradeoff.
@@ -45,7 +62,9 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelSalvo&repo=frontier-llm-techniques-2026-Q1&theme=tokyonight&hide_border=true" alt="frontier-llm-techniques-2026-Q1" /></a>
+<br/><a href="https://github.com/LeonelSalvo/frontier-llm-techniques-2026-Q1"><b>frontier-llm-techniques-2026-Q1</b></a><br/>
+<sub>Muon · Multi-Token Prediction · BPE</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/LeonelSalvo/frontier-llm-techniques-2026-Q1?style=flat-square&labelColor=0b0b0d&color=9b93e0&logo=github" alt="stars" />
 </td>
 <td valign="top">
 <br/><b>Frontier techniques, from scratch.</b> The <b>Muon</b> optimizer (used to train Kimi K2) and <b>Multi-Token Prediction</b> (DeepSeek-V3, Gemma 4, GLM, Qwen), plus a base <b>BPE</b> tokenizer — each self-contained and self-checking, with an AdamW-vs-Muon benchmark.
@@ -53,26 +72,35 @@
 </tr>
 </table>
 
-> **At work:** I lead a private, multi-tenant enterprise AI platform — composable agents and retrieval over a customer's own documents, shipped to production. *(Architecture kept private.)*
+---
+
+## 🤖 Work
+
+> I lead a private, multi-tenant enterprise AI platform — composable agents and retrieval over a customer's own documents, shipped to production. *(Architecture kept private.)*
 
 ---
 
-## 🎮 Games & 🧰 tools for the agent era
-
-Same method, other materials: a one-person game studio, and tooling for working with coding agents without losing what you know.
+## 🎮 Games — Pinguinista
 
 <table>
 <tr>
-<td width="44%" valign="top">
+<td width="34%" valign="top">
 <br/><b>🐧 Pinguinista</b><br/>
-<sub>my game studio · Godot 4 · hand-drawn pixel art · 2.5D worlds with real lights</sub>
+<sub>my one-person game studio</sub>
 </td>
 <td valign="top">
-<br/><b>A survival-horror farm sim, in silent production.</b> Everything hand-drawn, a continuous day/night clock where the night is the antagonist, and a custom 2.5D lighting and shadow pipeline in Godot 4. The first thing you'll see of it is a clip, not a page.
+<br/><b>Next game: TBD.</b> In silent production — more when there is something to show.
 </td>
 </tr>
+</table>
+
+---
+
+## 🧰 Tools — for working with coding agents
+
+<table>
 <tr>
-<td valign="top">
+<td width="34%" valign="top">
 <br/><b>🃏 Senior Rounds</b><br/>
 <sub>TypeScript · React · three.js · a JSON contract any agent can write</sub>
 </td>
@@ -82,7 +110,7 @@ Same method, other materials: a one-person game studio, and tooling for working 
 </tr>
 </table>
 
-<sub>🔒 Both private while I polish them — opening soon.</sub>
+<sub>🔒 Private while I polish it — opening soon.</sub>
 
 ---
 
@@ -159,11 +187,16 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 
 ---
 
+## 📊 Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeonelSalvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSalvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="top langs" />
+<img src="https://img.shields.io/github/followers/LeonelSalvo?style=for-the-badge&logo=github&labelColor=0b0b0d&color=1d9e75" alt="followers" />
+<img src="https://img.shields.io/github/stars/LeonelSalvo?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=0b0b0d&color=9b93e0" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=VIEWS&color=d99012&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0b1020&height=110&section=footer" width="100%" />
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>

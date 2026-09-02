@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-labelledby="t d">
+  <title id="t">Leonel Salvo — Lead AI Developer</title>
+  <desc id="d">Three glass cards standing on a dark glossy floor, each lit from above by its own colour: neural networks from first principles, games, and tools for working with coding agents.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101014"/><stop offset="1" stop-color="#07070a"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1b21"/><stop offset="1" stop-color="#0a0a0d"/>
+    </linearGradient>
+    <radialGradient id="poolA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#97c2ae" stop-opacity="0.55"/><stop offset="1" stop-color="#97c2ae" stop-opacity="0"/></radialGradient>
+    <radialGradient id="poolB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#e5bb96" stop-opacity="0.55"/><stop offset="1" stop-color="#e5bb96" stop-opacity="0"/></radialGradient>
+    <radialGradient id="poolC" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#c9c4f0" stop-opacity="0.55"/><stop offset="1" stop-color="#c9c4f0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="blur6" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+
+  <rect width="880" height="420" fill="url(#sky)"/>
+  <rect y="250" width="880" height="170" fill="url(#floor)"/>
+
+  <!-- pools of light on the floor, breathing on their own clocks -->
+  <g>
+    <ellipse cx="220" cy="296" rx="150" ry="30" fill="url(#poolA)" filter="url(#soft)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="440" cy="300" rx="160" ry="32" fill="url(#poolB)" filter="url(#soft)">
+      <animate attributeName="opacity" values="1;0.65;1" dur="9.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="660" cy="296" rx="150" ry="30" fill="url(#poolC)" filter="url(#soft)">
+      <animate attributeName="opacity" values="0.8;1;0.75;0.8" dur="8.2s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- reflections -->
+  <g opacity="0.22" transform="translate(0,520) scale(1,-1)">
+    <rect x="140" y="270" width="160" height="180" rx="16" fill="#1d9e75" filter="url(#blur6)"/>
+    <rect x="360" y="264" width="160" height="186" rx="16" fill="#d99012" filter="url(#blur6)"/>
+    <rect x="580" y="270" width="160" height="180" rx="16" fill="#9b93e0" filter="url(#blur6)"/>
+  </g>
+
+  <!-- the cards: one per direction -->
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite"/>
+      <rect x="140" y="90" width="160" height="180" rx="16" fill="url(#glass)" stroke="#1d9e75" stroke-opacity="0.85" stroke-width="2"/>
+      <text x="156" y="118" font-size="11" fill="#97c2ae">LLMs from scratch</text>
+      <rect x="156" y="130" width="104" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.55"/>
+      <rect x="156" y="143" width="76" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="156" y="156" width="118" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="156" y="176" width="108" height="20" rx="10" fill="#1d9e75" fill-opacity="0.22" stroke="#1d9e75" stroke-opacity="0.6"/>
+      <text x="166" y="190" font-size="10" fill="#b7e2cf">first principles</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.6s" begin="0.3s" repeatCount="indefinite"/>
+      <rect x="360" y="84" width="160" height="186" rx="16" fill="url(#glass)" stroke="#d99012" stroke-opacity="0.85" stroke-width="2"/>
+      <text x="376" y="112" font-size="11" fill="#e5bb96">Games · Pinguinista</text>
+      <rect x="376" y="124" width="92" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.55"/>
+      <rect x="376" y="137" width="112" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="376" y="150" width="68" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="376" y="176" width="96" height="20" rx="10" fill="#d99012" fill-opacity="0.22" stroke="#d99012" stroke-opacity="0.6"/>
+      <text x="386" y="190" font-size="10" fill="#f3d6a8">in production</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="5.3s" begin="0.6s" repeatCount="indefinite"/>
+      <rect x="580" y="90" width="160" height="180" rx="16" fill="url(#glass)" stroke="#9b93e0" stroke-opacity="0.85" stroke-width="2"/>
+      <text x="596" y="118" font-size="11" fill="#c9c4f0">Tools for agents</text>
+      <rect x="596" y="130" width="100" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.55"/>
+      <rect x="596" y="143" width="84" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="596" y="156" width="112" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.35"/>
+      <rect x="596" y="176" width="124" height="20" rx="10" fill="#9b93e0" fill-opacity="0.22" stroke="#9b93e0" stroke-opacity="0.6"/>
+      <text x="606" y="190" font-size="10" fill="#ddd9f7">Senior Rounds · soon</text>
+    </g>
+  </g>
+
+  <!-- the name, on the floor, with nothing behind it -->
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" text-anchor="middle">
+    <text x="440" y="358" font-size="40" font-weight="700" fill="#edebe5" letter-spacing="0.5">Leonel Salvo</text>
+    <text x="440" y="388" font-size="15" fill="#a9a69e">Lead AI Developer · neural networks from first principles</text>
+  </g>
+</svg>

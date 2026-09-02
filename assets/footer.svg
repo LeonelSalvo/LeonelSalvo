@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 80" width="880" height="80" role="img" aria-label="">
+  <defs>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a0d"/><stop offset="0.35" stop-color="#17171c"/><stop offset="1" stop-color="#0a0a0d"/>
+    </linearGradient>
+    <radialGradient id="poolA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#97c2ae" stop-opacity="0.5"/><stop offset="1" stop-color="#97c2ae" stop-opacity="0"/></radialGradient>
+    <radialGradient id="poolB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#e5bb96" stop-opacity="0.5"/><stop offset="1" stop-color="#e5bb96" stop-opacity="0"/></radialGradient>
+    <radialGradient id="poolC" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#c9c4f0" stop-opacity="0.5"/><stop offset="1" stop-color="#c9c4f0" stop-opacity="0"/></radialGradient>
+    <filter id="soft" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="880" height="80" fill="url(#floor)"/>
+  <ellipse cx="220" cy="42" rx="170" ry="22" fill="url(#poolA)" filter="url(#soft)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="440" cy="44" rx="180" ry="24" fill="url(#poolB)" filter="url(#soft)">
+    <animate attributeName="opacity" values="1;0.65;1" dur="9.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="660" cy="42" rx="170" ry="22" fill="url(#poolC)" filter="url(#soft)">
+    <animate attributeName="opacity" values="0.8;1;0.75;0.8" dur="8.2s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>
