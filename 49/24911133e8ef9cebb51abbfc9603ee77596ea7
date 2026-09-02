@@ -1,0 +1,19 @@
+README.md
+  s_067c2c17502771::t_40f1a91b7d532e 1,3,5-9,11,13,15,17,19-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "4924911133e8ef9cebb51abbfc9603ee77596ea7",
+  "prompts": {},
+  "sessions": {
+    "s_067c2c17502771": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3c5d180-8888-41b2-b743-f8d669a6472c",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Leo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
