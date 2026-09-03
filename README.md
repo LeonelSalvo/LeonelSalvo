@@ -4,6 +4,7 @@
 
 <br/>
 
+[![pinguinista.com](https://img.shields.io/badge/pinguinista.com-0b0b0d?style=for-the-badge&logo=safari&logoColor=9b93e0&labelColor=0b0b0d)](https://www.pinguinista.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-leonel-salvo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.leonel.salvo@hotmail.com)
 <img src="https://komarev.com/ghpvc/?username=LeonelSalvo&label=VIEWS&color=9b93e0&style=for-the-badge" alt="profile views" />
@@ -28,7 +29,7 @@ Four directions, one method: build it myself first, then trust the tool.
 
 - 🔬 &nbsp;**Research** — I rebuild modern architectures **from first principles**: no `nn.Transformer`, no wrapper I can't explain.
 - 🤖 &nbsp;**Work** — I lead a private, multi-tenant **AI platform**: composable agents + RAG over a customer's own documents, in production.
-- 🎮 &nbsp;**Games** — a **Godot** game shipped on Steam, and a one-person studio (**Pinguinista**) with the next one in production.
+- 🎮 &nbsp;**Games** — a one-person **Godot** studio, [**Pinguinista**](https://www.pinguinista.com): two games of my own in production, nothing released yet.
 - 🧰 &nbsp;**Tools** — for working with coding agents without losing seniority: *Seniority Rounds*, opening soon.
 - 📚 &nbsp;Permanent student: a degree in **hardware / electronics**, and pushing from LLMs toward **CUDA** and **quantum**.
 
@@ -84,11 +85,29 @@ The modern stack rebuilt one self-checking component at a time, in PyTorch, on a
 <table>
 <tr>
 <td width="34%" valign="top">
-<br/><b>🐧 Pinguinista</b><br/>
+<br/><b>🐧 <a href="https://www.pinguinista.com">Pinguinista</a></b><br/>
 <sub>my one-person game studio</sub>
 </td>
 <td valign="top">
-<br/><b>Next game: TBD.</b> In silent production — more when there is something to show.
+<br/><b>Two games of my own, both in production, neither released.</b> Hand-drawn pixel art, Godot, one person. The dock, the field and how they run today are on <a href="https://www.pinguinista.com">pinguinista.com</a>.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<br/><b>Records of the Truth Bureau</b><br/>
+<sub>noir detective · writing to think</sub>
+</td>
+<td valign="top">
+<br/><b>In development.</b> The evidence goes on a corkboard, and the Bureau only accepts method.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<br/><b>Next game</b><br/>
+<sub>TBD</sub>
+</td>
+<td valign="top">
+<br/><b>TBD.</b> One field, from dawn to midnight. In silent production — more when there is something to show.
 </td>
 </tr>
 </table>
@@ -109,7 +128,7 @@ The modern stack rebuilt one self-checking component at a time, in PyTorch, on a
 </tr>
 </table>
 
-<sub>🔒 Private while I polish it — opening soon.</sub>
+<sub>🔒 Private while I polish it — opening soon. The stance behind it: <a href="https://www.pinguinista.com/rounds/sovereign-seniority-manifesto.pdf">the Sovereign Seniority Manifesto</a>.</sub>
 
 ---
 
@@ -196,6 +215,6 @@ I didn't invent these — I learned them by **rebuilding and verifying each one 
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<a href="https://www.pinguinista.com"><img src="assets/footer.svg" width="100%" alt="pinguinista.com" /></a>
 
 </div>
