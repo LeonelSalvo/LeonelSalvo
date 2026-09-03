@@ -1,0 +1,21 @@
+README.md
+  s_067c2c17502771::t_76a45e079915a0 7,32,88,92-110,131,218
+assets/footer.svg
+  s_067c2c17502771::t_f61bb35ea5389f 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "75cc42d4c9cf0f9a5544c657509ba6b998b3608b",
+  "prompts": {},
+  "sessions": {
+    "s_067c2c17502771": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3c5d180-8888-41b2-b743-f8d669a6472c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Leo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
