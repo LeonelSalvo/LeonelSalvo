@@ -1,0 +1,25 @@
+LICENSE
+  s_1a3a01a55ebc69::t_9e06e1f6d918bb 1-3
+README.md
+  s_1a3a01a55ebc69::t_afac3711281b41 28,33,117,119-127,129
+assets/hero.svg
+  s_1a3a01a55ebc69::t_f44cfbaaedb4e5 3,69,74
+assets/maestria-auctor-involut.svg
+  s_1a3a01a55ebc69::t_a07153958f2669 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a80654b629f34902a31a49a25ab8483fe43920b7",
+  "prompts": {},
+  "sessions": {
+    "s_1a3a01a55ebc69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07d98-47b3-7340-9ba6-9cb51fab9511",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Leonel Salvo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
